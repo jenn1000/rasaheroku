@@ -102,7 +102,7 @@ nlu:
     - I want appointment
 
 
-- intent: todo
+- intent: TODO_item
   examples: |
     - i need to write a schedule 
     - i need to write a memo
@@ -118,5 +118,4 @@ nlu:
     - timer 
     - i need to time 
     - i need to time something 
-
 
